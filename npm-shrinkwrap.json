@@ -1,0 +1,11 @@
+{
+  "name": "npm_scripts",
+  "version": "1.0.0",
+  "dependencies": {
+    "faker": {
+      "version": "3.1.0",
+      "from": "faker@latest",
+      "resolved": "https://registry.npmjs.org/faker/-/faker-3.1.0.tgz"
+    }
+  }
+}

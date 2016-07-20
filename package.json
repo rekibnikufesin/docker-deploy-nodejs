@@ -1,0 +1,17 @@
+{
+  "name": "npm_scripts",
+  "version": "1.0.0",
+  "description": "testing launching vagrant and docker images with npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "echo Hello World!",
+    "deploy": "./deploy.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^3.1.0"
+  }
+}
